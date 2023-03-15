@@ -131,11 +131,11 @@
 890 return
 
 900 rem note off
-910 if (peek(base+5) and 32)=1 then 810
+910 if (peek(base+5) and 32)=1 then 910
 920 poke base, 128+channel% : rem note off
-930 if (peek(base+5) and 32)=1 then 830
+930 if (peek(base+5) and 32)=1 then 930
 940 poke base, m(track%,s%) : rem note value
-950 if (peek(base+5) and 32)=1 then 850
+950 if (peek(base+5) and 32)=1 then 950
 960 poke base, 0 : rem velocity
 990 return
 
