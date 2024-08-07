@@ -26,6 +26,8 @@ http://www.go4retro.com/products/vicmidi
 
 https://github.com/LeifBloomquist/VICMIDI
 
+https://worldradiohistory.com/UK/Mapelin/Maplin-Project-Book-22.pdf#page=32
+
 https://vice-emu.sourceforge.io
 
 https://cbm-pi1541.firebaseapp.com/
